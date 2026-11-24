@@ -5,7 +5,7 @@ export function adminpage() {
 <a href="#/"
 class="mt-6 inline-block rounded-lg border
 bg-black px-6 py-3 font-semibold
-text-white hover:bg-sky-800">
+text-white hover:bg-black">
 ← กลับหน้าแรก
 </a>
 `}
