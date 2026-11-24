@@ -5,7 +5,7 @@ return `
 <a href="#/"
 class="mt-6 inline-block rounded-lg border
 bg-yellow-500 px-6 py-3 font-semibold
-text-white hover:bg-sky-800">
+text-white hover:bg-yellow-500">
 ← กลับหน้าแรก
 </a>
 `}
