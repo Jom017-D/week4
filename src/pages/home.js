@@ -5,7 +5,7 @@ return `
     <a href="#/admin"
     class="mt-6 inline-block rounded-lg bg-red-500
     px-6 py-3 font-semibold text-white
-    hover:bg-red-500">
+    hover:bg-red-800">
     ไปหน้าแอดมิน
     </a>`
 }
